@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Reminder App</string>
+    <string name = "Taureau"> <u>Taureau ♉ </u> </string>
+    <string name = "belier"> <u>Belier ♈ </u> </string>
+    <string name = "Cancer"> <u>Cancer  ♋ </u> </string>
+    <string name = "Vierge"> <u>Vierge  ♋ </u> </string>
+    <string name = "Gemeaux"> <u>Gemeaux ♐ </u> </string>
+
+    <string name = "Lion"> <u>Lion ♌ </u> </string>
+    <string name = "Scorpion"> <u>Scorpion ♏ </u> </string>
+    <string name = "Balance"> <u>Balance ♎ </u> </string>
+    <string name = "Capricorne"> <u>Capricorne ♑ </u> </string>
+    <string name = "Sagittaire"> <u>Sagittaire ♐ </u> </string>
+    <string name = "Poissons"> <u>Poissons ♓ </u> </string>
+    <string name = "Verseau"> <u>Verseau ♑ </u> </string>
+
+</resources>
